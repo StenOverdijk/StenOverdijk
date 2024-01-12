@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StenOverdijk
-- 👀 I’m interested in vfx/coding
-- 🌱 I’m currently learning C# and Blender
-- 💞️ I’m looking to collaborate on a FPS or a vsiual effects project
+- 👀 I’m interested in Coding, VFX and Game Development
+- 🌱 I’m currently learning C#, Javascript and Blender
 - 📫 How to reach me github
 
 <!---
