@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StenOverdijk
 - 👀 I’m interested in Coding, VFX and Game Development
-- 🌱 I’m currently learning C#, Javascript and Blender
+- 🌱 I’m currently learning C#, C++, Unity and Blender
 - 📫 How to reach me github
 
 <!---
